@@ -1,0 +1,227 @@
+/*General style*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: #white;
+}
+
+
+/*Top Navigation style*/
+li, a, button {
+	font-family: "Montserrat", sans-serif;
+	font-weight: 500;
+	font-size: 17px;
+	color: #edf0f1;
+}
+
+header {
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px 10%;
+	position: fixed;
+	width: 100%;
+}
+
+
+.logo {
+	width: 80px	
+}
+
+
+.nav__links li {
+	margin-left: 0px;
+	display: inline;
+	padding: 10px 25px;
+}
+
+.nav__links li a:hover {
+	color: #FF756C;
+}
+
+
+
+button {
+	padding: 9px 25px;
+	background-color: rgba(0,136,169,1);
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: all 0.3 ease 0s;
+}
+
+button:hover {
+	background-color: rgba(0,136,169,0.8);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.container1 {
+	position:relative;
+}
+
+.center {
+	position:text;
+	top: 50%;
+	left: 50%;
+	transform: translate (-50%, -50%);
+}
+
+h2 {
+	font-family: 'Indie+Flower', cursive;
+	font-size: 50pt;
+	position: absolute;
+	color: white;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	max-height: 50px
+}
+
+mark.yellow {
+	color: gold;
+	background: none;
+	font-size: 20pt;
+}
+
+
+
+
+
+.container{
+	display:flex;
+}
+
+video {
+	width: 650px;
+	margin: 100px 50px;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@1,600&display=swap');
+
+.text-col {
+	width: 550px;
+	margin: 100px 50px;
+	margin-left: 60pt;
+	font-size: 15pt;
+}
+
+h1{
+	font-size: 20pt;
+	margin-bottom: 10pt;
+	font-family: "Crimson Text", sans-serif;
+}
+
+
+h3{
+	font-size: 15pt;
+	margin-bottom: 10pt;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Crimson+Text:ital,wght@1,600&display=swap');
+
+.quote {
+	font-family: 'Caveat', cursive;
+
+}
+
+/*linkto other website*/
+
+.holder-box {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: black;
+	/*margin: 0 auto;*/
+
+}
+
+.box {
+	width: 33.33%;
+	height: 300pt;
+	background-color:white;
+	margin-top: 1pt;
+	margin-left: 0.5pt;
+	margin-right:0.5pt;
+}
+
+
+.bio-pic {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+	margin: 5px auto;
+}
+
+.bio-pic:hover {
+	width: 120px;
+	width: 120px;
+}
+
+
+.cast {
+	width:350px;
+	margin: 20px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+.movie {
+	width:350px;
+	margin: 20px;
+	margin-top: 60px;
+	margin-left: 70px;
+}
+
+.review{
+	width:200px;
+	margin-top: 30px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.reviewer{
+	width:250px;
+	margin-top: 5px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    display: block;
+
+}
+
+.box-text {
+	font-size: 15pt;
+	font-family: "Montserrat", sans-serif;
+	position: relative;
+
+	bottom: 5px;
+	text-align: center;
+}
+
+
+
+/*Footer*/
+
+footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 200px;
+	background-color: black;
+
+}
+
+
+
