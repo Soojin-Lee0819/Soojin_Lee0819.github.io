@@ -10,68 +10,52 @@
 <body>
 <!-- Top Navigation-->
 <div class=container>
+
 	<header>
 		<img class="logo" src="Image/logo.jpeg" alt="logo">
 		<nav>
 			<ul class="nav__links">
-				<li><a href="file:///Users/soojinlee/Google%20Drive/Comlab/Project%201%20Website/FMMM%20Website/index.html">Home</a></li> 
-				<li><a href="#film">Film</a></li>
-				<li><a href="file:///Users/soojinlee/Google%20Drive/Comlab/Project%201%20Website/FMMM%20Website/castindex.html">Cast&Crew</a></li>
-				<li><a href="#Review">Review</a></li>
+				<li><a href="file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/index.html">Home</a></li> 
+				<li><a href="file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/film.html">Film</a></li>
+				<li><a href="file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/castindex.html">Cast&Crew</a></li>
+				<li><a href="file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/review.html">Review</a></li>
 			</ul>
 		</nav>
-		<a class="cta" href="#"><button>Contact</button></a>
+		<a class="cta" href="#footer"><button>Contact</button></a>
 
 	</header>
-
+</div>
 <!-- Changing image-->
+
 
 <div class="w3-content w3-section">
 
-  <img class="mySlides" src="Image/header1image.jpg" style="width:100%">
-  <img class="mySlides" src="Image/header2image.jpg" style="width:100%">
-  <img class="mySlides" src="Image/header3image.jpg" style="width:100%">
+  <img class="mySlides" src="Image/header1image.jpg">
+  <img class="mySlides" src="Image/header2image.jpg">
+  <img class="mySlides" src="Image/header3image.jpg">
   <div class="center"> <h2> <p>"Instead, <mark class= "yellow"> together </mark>  WE  <mark class= "yellow"> can </mark> </p> <p> Distant Socialize" </p></h2> </div>
-
 </div>
 </div>
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 3000); // Change image every 2 seconds
-}
-</script>
-
-
 
 <!-- Link to Video-->
 
 <div class= "container">
 	<div class="video-col">
 
-		<video src="final_ssms.mp4" controls>
+		<video controls preload="none" poster="Image/poster.jpg">
+		<source src="video1.mp4" type="video/mp4">
+		
 		</video>
 	</div>
 
 	<div class="text-col">
-		<h1> Instead, Distant Socialize </h1>
+		<h1> Instead, Distant Socialize <mark class="date"> Sep 2020 </mark> </h1>
 
-		<h3> Sep 2020 </h3>
+	
+		<p class= "quote"> "When "i" is replaced with "we", </p> 
+		<p class= "quotehover"> "Even 'illness' becomes 'wellness'" </p>
 
-		<p class= "quote"> "When "i" is replaced with "we" even "illness" becomes "wellness". </p>
-
-		<p> 2020 has surprised us with unexpectedness and we all have at one point felt disconnected, a sense of isolation and --, but we can stilsl socialize and keep in touch with loved ones with some creativity. Instead of Social, distancing, we can distant socialize to keep in touch with loved ones. This 2minutes short film is all about breaking the physical barrier and stay in touch with some jolly moments with friends! Together WE, Can do it! </p>
+		<p class="introvideo"> 2019-2020 have surprised us with unexpectedness, having us to stay at home and restrict ourselves from physical social gatherings. We all have at one point felt disconnected and a sense of isolation. But we can still find some creative ways to socialize and keep in touch with our loved ones. Instead of "Social Distancing", we can "Distant Socialize" to keep in touch with friends and families. This 2 minutes short film is all about breaking the physical barrier and Distant Socializing with friends! Together WE, Can Distant Socialize Safely! </p>
 
 	</div>
 
@@ -82,38 +66,63 @@ function carousel() {
 <!-- Three Column Link to Another Page-->
 
 <div class="holder-box">
-
-		<div class="box 1">
-			<img class="movie" src="Image/fullmovie.png">
-			<div class="box-text">Watch full film</div>
-		</div>
-
-
-		<div class="box 2">
-			<img class="review" src="Image/fivestar.png">
-			<img class="reviewer" src="Image/momreviewcolor.png">
-			<div class="box-text">Read reviews</div>
-		</div>
-
-
-		<div class="box 3">
-			<img class="cast" src="Image/profilepic.png">
-			<div class="box-text">Find out more about CAST & CREW </div>
-		</div>
-	</div>
-
-
-<!-- Footer -->
-
-<div class= "footer">
 	
-	<footer>
-	
+			<div class = "Box1">
+				<div class="box">
+					<h3><span>Full Film  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><button class="linkbtn" onclick="window.location.href='file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/film.html';">Click!</button>
+							
+					</h3>
+					<img class="movie" src="Image/fullmovie.png">
+					
+				</div>
+			</div>
 
-	</footer>
+
+			<div class="Box2">
+				<div class="box">
+					<h4><span>Reviews &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</span><button class="linkbtn" onclick="window.location.href='file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/review.html';">Click!</button>
+					</h4>
+					<img class="review" src="Image/fivestar.png">
+					<img class="reviewer" src="Image/momreviewcolor.png">
+				</div>
+			</div>
+
+			<div class="Box3">
+				<div class="box">
+				<h5><span>Cast & Crew &nbsp;&nbsp; </span><button class="linkbtn" onclick="window.location.href='file:///Users/soojinlee/Documents/Soojin-Lee0819.github.io/Soojin_Lee0819.github.io/castindex.html';">Click!</button></h5>
+				<img class="cast" src="Image/profilepic.png">
+			    </div>
+				
+			</div>
 
 </div>
 
+<!-- Footer -->
+
+<footer id="footer">
+
+	&emsp;
+	<p><mark class="bordercontact">Contact</mark>
+	</p>
+
+<img class="mailicon" src="Image/mail.png" > &emsp;&emsp; 
+  			 <a href="mailto:sl7362@nyu.edu"> <mark class="putup">sl7362@nyu.edu </mark></a> &emsp;&emsp;&emsp; &emsp;&emsp; 
+  			 <img class="phoneicon" src="Image/phone.png" > &emsp;&emsp; 
+  			 <a href="tel:+971543483938"><mark class="putup">+971543483938</mark></a>
+&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp; 
+
+
+ <a href="https://www.facebook.com"style="text-decoration: none;">  <img class="fa" src="Image/facebook.png"> &emsp;  &emsp;&emsp; &emsp; &emsp; &emsp; 
+  		 <a href="https://www.instagram.com"style="text-decoration: none;">  <img class="fa" src="Image/instagram.png">  &emsp; &emsp;&emsp;&emsp; &emsp; &emsp; 
+  			  <a href="https://www.youtube.com"style="text-decoration: none;">  <img class="fa" src="Image/youtube.png">  
+  			 </a>
+
+
+</footer>
+	
+
+<script src="script.js" type="text/javascript">
+</script>
 
 </body>
 
