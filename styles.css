@@ -297,9 +297,11 @@ footer {
 }
 
 .fa{
+	padding-top: 50px;
 	width: 40pt;
-	right-margin: 20pt;
-	padding-top: 45pt;
+	padding-top: -30pt;
+  float-left;
+  margin-left: 15px;
 }
 
 .fa:hover {
