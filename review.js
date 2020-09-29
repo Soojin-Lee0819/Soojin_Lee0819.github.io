@@ -29,17 +29,4 @@ function showSlides(n) {
 
 
 
-function myFunction() {
-  var x = document.createElement("VIDEO");
 
-  if (x.canPlayType("video/mp4")) {
-    x.setAttribute("src","video2.mp4");
-  } else {
-    x.setAttribute("src","movie.ogg");
-  }
-
-  x.setAttribute("width", "320");
-  x.setAttribute("height", "240");
-  x.setAttribute("controls", "controls");
-  document.body.appendChild(x);
-}
