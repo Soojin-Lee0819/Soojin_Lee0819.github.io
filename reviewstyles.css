@@ -169,7 +169,7 @@ input[type=text], select, textarea {
 
 
 
-.submit {
+button-2 {
   background-color: #4CAF50;
   color: white;
   padding: 12px 20px;
@@ -179,7 +179,7 @@ input[type=text], select, textarea {
   cursor: pointer;
 }
 
-.submit {
+button-2 :hover{
   background-color: #45a049;
 }
 
