@@ -31,11 +31,11 @@ The review page, like all the other pages also has a top navigation bar on top a
   Another issue that on Chrome, the structure of "footer" area is distorted, while it works fine on Safari. When I was developing the website, I used safari as a reference browser, so I just found out this problem at the end of web-development. Since I want mywebsite to be an inclusive for al the users, whether they are using Chrome or Safari, I would like to learn how to develop a webpage that is coherent in all different browsers.
   
   
-  
-  
+ 
 
 (Assignment #2)
 (Title: Sometimes Life is Unpredictable)
+
 Github repository:https://github.com/hasin-shabbir/comicStrip
 Website:https://hasin-shabbir.github.io/comicStrip/
 
