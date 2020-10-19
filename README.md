@@ -1,3 +1,5 @@
+(Assignment #1)
+
 (Title)Instead, Together We Can Distant Socialize
 
   For this project, I have developed a website using html5, css and javascript for the first time. This is an introduction website of a 2 minutes short film titled "Instead, Distant Socialize", which is a video about breaking the physical barrier and having fun with friends. Apart from introducing film to the users, this website is has a bigger cause; to encourage website users to stay connected, socialize safely and have some jolly moments with creativite methods, despite the current situation of having to do social distancing and staying at home for the most of our time.  
@@ -27,3 +29,45 @@ The review page, like all the other pages also has a top navigation bar on top a
   One thing that I would like to improve on is the comment submit box. I wanted it to be "live" interaction as in once the visitor fill out the comment box and "submit" their comment, it will appear on the website. In this way, the viewers can feel they are part of the community and have some sense of authorship as well. However, given the stage of my coding skill, I didn't know how to script it to have a live feedback. Another alternative would be have it submitted to my email box, so the website owner, myself can choose what reivews to be uploaded to control the quality of the content. 
   
   Another issue that on Chrome, the structure of "footer" area is distorted, while it works fine on Safari. When I was developing the website, I used safari as a reference browser, so I just found out this problem at the end of web-development. Since I want mywebsite to be an inclusive for al the users, whether they are using Chrome or Safari, I would like to learn how to develop a webpage that is coherent in all different browsers.
+  
+  
+(Assignment #2)
+(Title: Sometimes Life is Unpredictable)
+
+That person you just bumped into maybe your future fiance. 
+The traffic jam that got you to miss your flight may happend to save your life as original plane got crashed unfortunatley.
+This not to scare you or anything, but sometimes life is just unpredictable. 
+
+There has always been an element of unpredictability in our lives but especially more so in the last few months due to the unprecedented global pandamic. 
+Weddings had to be postponded without a promise, schools had to be closed, countless "plans" have gone messed up. 
+Living in such time of uncertainty can be scary and frustrating that we often trap ourselves into a pessimistic thoughts; there is no good future ahead of us. 
+Often times, we just don't understand why this thing is happening and sometimes it seems like there is no good will in what is happening around us.
+
+However, as Steve Jobs famously qutoes, 
+
+"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future."
+
+we may not know our future and looking forward, we don't know how all these things that are happening around us will make an impact in our future, but looking backward, we will be able to connect how our daily decisions, choices and happenings have brought you to who you are now. 
+
+This web-based interactive comic piece visually, narratively and through the user experience it communicates the message explained above. Unlike conventional hardcopy comics where users are passively informed with a story provided by the producer, this web based comic piece, creatively using the advantage of the interactive properties of digital website, is allows users to actively participate in creating a story. To briefly explain how it works, for each frame, users are given two objects (or actions) to choose from, and the following story would unfold according to their decisions. Therefore, users have some agency of "making a choice" and to have some control over a story, but not entirely - just like how we only have some controls over our lives. 
+
+This is a 6 panel short comic short comic, with only panel shown at a time. Unlike how it would be be possible for users jump from the first scnene to the last scene in conventional comic books (all six frames were illustrated in one page) and make understanding of the overall storyline at one sight, in this interactive web comic, users are guided to read read one frame after another, not knowing the conclusion until they have read everything and reached the conclusion. This specific process of reading is designed to convey albiet subconsciously, the message that "dots are connected only when looking backwards". 
+The basic storyline of this comic is the memory of my job interview day. With this element of memory and using first person perspective pronouns like "I", users themselves become a protagonist, reading it with some kind of self-reflection. 
+
+In terms of work division and work process, Amina and I mainly worked on the illustration, conceptualization and design aspects of the comics and the website, and Hasin and Ayesha focused on the physical coding aspects. 
+
+Based on Amina's suggestion on the theme "memory" and Hasin's suggestion of having an element of "choice" in the comic, I took in charge in developing a storyline. Despite it was only 6 panels short comic, to develop a stroyline that has an element of choice was much more complicated. The choices had to lead to certain variations, yet still had to come back to general narrative with have similar consequence, so that they can be reconciled in the following frames. If not the number of frames would multiple by itself and become too many for the scope of this exercise. Also, reflecting on the message/theme of this project that ends with a positive note, I wanted to make sure there are challenges and variations in process, but in the end, it all comes to a similar positive consequence. In order to achieve this narrative structure, when developing a stroyline, I always had to think at least two panels ahead. 
+
+I proposed two storylines to the group; "a memory of first time popping a pop-corn" and "a memory of the day that I had a job interview", which we decided as a group to work on the second one, the job interview. In following days, based on the comments from the professor, I added more "unexpected" and "surprise" elements on the plotline. For example, on the first scene, originally, the choice "umbrella" led to a "rainy day". Instead, I twisted to have a choice "umbrella" lead to the narrative of "snowy day" and "I" use umbrella instead of avoiding rain, I use it as a ski pole to dashing through the icy road. An alternative option for umbrella, the yogamat, ironically leads to a rainy day but "I" still make use of waterproof yogamat to avoid rain. Another twist is the element of "crush". Unlike how most of the melodrama style comic that would lead "crush" element to a love story, in this story, crush ends up being merely "used" by the protagonist in the process of swapping T-shirts. 
+
+Other than the structure and user experiences, we also payed a detailed attention in visual designs to support and conceptualize the theme. The word "elbatciderpnu" for the title on the landing page is written flipped; to highlight the sense of unpredictability. When users click the icon, instead of simply moving on to next page, it dissolves to the next frame, which makes a visual analyogy of a memory resurrection. The icons are animated to be also pulsing and its colors change from b/w to colors to get attention from the users. 
+
+Instead of making a realistic illustration of a character, it is designed symbolically with its identity neutralized. This neutralized identification allows all users with different sex, nationality or ethnicity to be able to relate with the character and put themselves as a protagonist in the narrative. The same effort was made in voice as well. When the users click on the character, it makes a sound. Even though it is recorded by me, a female figure, it is also recorded in a tone that does not explicitely identify with a female voice. 
+
+The contrast of black and white from the colored character allows viewers to give full attention to the character despite its simplified illustration. For the background illustration, I used real-life photo of a physical space and used image editing software to cartoonize image followed by adjusting the saturation to make it b/w. Then I used Adobe illustration on my ipad to hand-draw character on the background image, but on the differen layers. For each drawings; bubble text box, character, and motion effects or the symbols, they were drawn on the separate layers so that later the animation can be added easily as SVG files. The drawings are colored with pastel-tone colors and outlined with darker colors to make it more vivid and clear. 
+
+Communication, trust and felxibility were key for this group project. As we work remotely yet, simultaneously on the same project, we had to actively communicate with one another to make sure we each of our works are weaved together coherently and strenthen the theme and the message of our comic. We also stratigically divided works so that individuals can focus on certain things but also work together when needed. 
+
+Overall, I am very happy that we were able to collaborate harmoniously, each of our uique talents contributed to strengthend the project. 
+One thing that I would like to improve on is 
+For my next projecct...
