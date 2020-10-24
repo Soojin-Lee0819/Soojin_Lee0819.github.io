@@ -1,4 +1,4 @@
-# Assignment #1
+# 30 MFF WEB SITE
 
 ## Instead, Together We Can Distant Socialize
 
@@ -30,7 +30,7 @@ One thing that I would like to improve on is the comment submit box. I wanted it
 
 Another issue that on Chrome, the structure of "footer" area is distorted, while it works fine on Safari. When I was developing the website, I used safari as a reference browser, so I just found out this problem at the end of web-development. Since I want mywebsite to be an inclusive for al the users, whether they are using Chrome or Safari, I would like to learn how to develop a webpage that is coherent in all different browsers.
 
-# Assignment #2
+# COMIX STRIP
 
 ## Sometimes Life is Unpredictable
 
