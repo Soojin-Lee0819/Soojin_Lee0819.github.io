@@ -1,6 +1,6 @@
 # Assignment #1
 
-(Title)Instead, Together We Can Distant Socialize
+## Instead, Together We Can Distant Socialize
 
 For this project, I have developed a website using html5, css and javascript for the first time. This is an introduction website of a 2 minutes short film titled "Instead, Distant Socialize", which is a video about breaking the physical barrier and having fun with friends. Apart from introducing film to the users, this website is has a bigger cause; to encourage website users to stay connected, socialize safely and have some jolly moments with creativite methods, despite the current situation of having to do social distancing and staying at home for the most of our time.
 
@@ -32,7 +32,7 @@ Another issue that on Chrome, the structure of "footer" area is distorted, while
 
 # Assignment #2
 
-(Title: Sometimes Life is Unpredictable)
+## Sometimes Life is Unpredictable
 
 Github repository:https://github.com/hasin-shabbir/comicStrip Website:https://hasin-shabbir.github.io/comicStrip/
 
