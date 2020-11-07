@@ -1,0 +1,32 @@
+<head>
+  <link href="http://vjs.zencdn.net/6.6.0/video-js.css" rel="stylesheet">
+  <script src="http://vjs.zencdn.net/6.6.0/video.js"></script>
+</head>
+
+<body>
+
+  <video id="my-video" class="video-js" controls preload="auto" width="368" height="208" poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+    <source src="../../video_6N79V6KhPzw_22_48_182x100.mp4" type='video/mp4'>
+
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+
+  <script type="text/javascript">
+     var SLplayer = parent.GetPlayer();
+     var myPlayer = videojs("my-video");
+       videojs("my-video").ready(function(){
+       this.on("ended", function(){  
+            SLplayer.SetVar("videoEnd","true");
+       });
+     });       
+  </script>
+
+
+</body>
+
+
+
+
