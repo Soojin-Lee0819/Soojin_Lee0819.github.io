@@ -69,3 +69,23 @@ Overall, I am very happy that we were able to collaborate harmoniously, each of 
 One thing that I would like to improve on is the ending page. We planned to have a separate ending page with steve job's quote mentioned earlier. This was to highlight and provide a room for viewers to reflect on the concept of "we can only connect the dots looking backwards" as an ending note. However, due to time limitation, we had to end the page on the 6th panel and just add button to start over.
 
 For my next projecct I would like to work more on the coding aspect. For this project, I have mainly focused on the conceptual,visual illustration and sound aspect but not so much on the physical coding part.
+
+# Sound Project
+
+## Hear Our Spirit
+
+Github repository: Website:
+
+Project Description:
+
+The project presents a unique music video that narrates a day in NYUAD without a dialogue. invites user to listen to a day in NYUAD during the COVID-19 Pandamic. The music video consists of  These sounds of NYUAD are recorded and edited in a rhythmic way to .By rhythmically editing sounds The music video  life in NYUAD through a composed dialogue and music. Listening to these sounds, students who were at NYUAD will be able to have an experience of going back to the times when they were on campus, and Freshmen students who are not on campus can have a indirect experience of campus through the sound and to have an understanding of what it is like to live on campus. Although it does not literally narrate the sequence in, it is meant to  day in NYUAD during COVID times that takes users through a day in NYUAD through sound. Story that embedded in the narrative, explains what it is like to live on campus during --; mandatory symptom and temperature check, opened communal spaces such as gym, dining hall, . Having both ordinary life such as brushing teeth, drinking water to new norms in the time of pandemic such as temperature check, it shows the realistic experience that seems ordinary yet unusual. The storyline consists of two parts; the music video part and the dialogue. Dialogue is there to support the narrative, The story is about two friends talking about a life in NYUAD during COVID times, where one tells a day of her life to friend. It starts with a dialogue followed by a music video with some dialogues that comments on the music video. users will have an understanding of  Mainly with a music video with some accompanying. Although, images are there to help viewers and support the sound. With no dialogue, the music made of and sounds of NYUAD unfolds the narrative of a day from waking up, . This project is intended to reflect real-life experiences of NYUAD in the time of Covid where there is a wifi-issue, new rules regarding social gatherings and symptom checker that all community members have to do in order to live on campus. On the website, users can listen to the, explore NYUAD with a link to school website and learn more about the campus life guidelines and policies through a quiz. 
+
+Process:
+
+The project started with a generic idea about creating "A Day In My Life" vidoe that went viral on YouTube with an audio twist. Instead of typical A Day In My Life videos that narrate a day visually, in this project, we decided to . Many ideas were pitched in regards to the forms and methods to replicate a day in my life with an audio twist. Ideas such as ASMR, how we would implement this for instances to  During brainstorming, we decided to make a day in my life story with a NYUAD COVID times twist.   Based on this idea, we decided to  Since it was a sound project, we While brainstorming, many ideas were shared for instances having an ASMR Based on this idea, we decided to create a Since both of us were one campus, we wanted to 
+Although, it is a music song, it required a narrative. So we started writing down the script. When writing script, we wrote in detail with layers of the sound needed for a specific scene, for example, for the scene where two people are talking while tea is boiling,  Then we recorded sounds using iphone 11 Voice memos application. Although it would have been ideal to use microphone to capture the sound, since we didn't have a device, we recorded sound and video separatly to maximize the sound quality. When recor. With all the recorded sound, we 
+
+Reflection/Evaluation:
+
+I had a lot of fun throughout the process. There were many trial errors when recording since the room had to be controlled. For example, when Rashid and I were recording on . Although there were some doubts about . It was almost the process of deceiving people's mind 
+
