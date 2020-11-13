@@ -74,5 +74,7 @@ For my next projecct I would like to work more on the coding aspect. For this pr
 
 ## Hear Our Spirit
 
-Github repository: https://github.com/Soojin-Lee0819/soundproject Website:  https://soojin-lee0819.github.io/soundproject/
+### Github repository: https://github.com/Soojin-Lee0819/soundproject2 
+### Website:https://soojin-lee0819.github.io/soundproject2/
+
 
