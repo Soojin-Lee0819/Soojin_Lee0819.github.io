@@ -78,3 +78,15 @@ For my next projecct I would like to work more on the coding aspect. For this pr
 ### Website:https://soojin-lee0819.github.io/soundproject2/
 
 
+#Vido Project
+
+##Self Care Perspectives On How To 
+
+Github Repository: https://aisahodzic.github.io/Video%20Project/mainPage.html
+Website: https://aisahodzic.github.io/Video%20Project/index.html
+
+### Project Description:
+
+### Profess:
+
+### Reflection & Evaluation: 
