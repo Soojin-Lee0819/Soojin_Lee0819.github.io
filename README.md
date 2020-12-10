@@ -78,15 +78,26 @@ For my next projecct I would like to work more on the coding aspect. For this pr
 ### Website:https://soojin-lee0819.github.io/soundproject2/
 
 
-#Vido Project
+# Vido Project
 
-##Self Care Perspectives On How To 
+## Self Care Perspectives On How To 
 
 Github Repository: https://aisahodzic.github.io/Video%20Project/mainPage.html
 Website: https://aisahodzic.github.io/Video%20Project/index.html
 
 ### Project Description:
 
+The project is to normalize weird ways of selfcare and self care is a necessary human routine but since it requires individual control, deliberate and is self-initiated, with different excuses, we often negelct. However, especially in this time where we spend the most time with ourselves, and especially for college students where we are going through growth in multiple aspects whether it be intellecetual growth or personal growth, it is really important to practice self-care. However, there is no one way of self-care. It 
+
 ### Profess:
+
+On our first meeting, we decided to make a stop motion. On to this, we chose a theme that would work nicely. Once we decide on making a film about self care, we brainstormed on the idea of and . Since all of us were in differnt geographical location, we wanted to make four different short videos that communicates a bigger meaning. To make four videos to be wanted to make a general 
+
+Since we wanted users to feel that they are cared and valued we had an idea of making a website that is cuztomized for the users. So the idea was to start with a survey that collects customer behavior and based on the response, we recommend the best fit self-care routine, followed by gifting user with a self-care kit. How we are going to do were further discussed in following meetings. 
+
+We first collectively wrote down ideas of selfcare that includes both relatively well-known self care but also included unconventional self-care that are equally successful and useful
+
+The process of filmming a stop motion was much more time consuming 
+
 
 ### Reflection & Evaluation: 
