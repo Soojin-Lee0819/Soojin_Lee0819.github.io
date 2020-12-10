@@ -87,7 +87,12 @@ Website: https://aisahodzic.github.io/Video%20Project/index.html
 
 ### Project Description:
 
-The project is to normalize weird ways of selfcare and self care is a necessary human routine but since it requires individual control, deliberate and is self-initiated, with different excuses, we often negelct. However, especially in this time where we spend the most time with ourselves, and especially for college students where we are going through growth in multiple aspects whether it be intellecetual growth or personal growth, it is really important to practice self-care. However, there is no one way of self-care. It 
+The project is meant to normalize weird ways of slef care and promote slef care for 21st century youths who often negelcts taking care of themselves with excuses that may be; having no time, don't know how to, . Self care is a necessary human routine but since it requires individual control, deliberate and is self-initiated, with different excuses, we often negelct. However, especially in this time where we spend the most time with ourselves, and especially for college students where we are going through growth in multiple aspects whether it be intellecetual growth or personal growth, it is really important to practice self-care. However, there is no one way of self-care. There is no restriction on audience, but we were targeting on peer collegues who are burnt out with academic works or going through personal challenges or even who are doing just fine. We did not focus on struggles or difficulties but more on the aspect of how to take a good care of self since self-care does have to be "stress relief". 
+
+The project takes on a full package experience of personalization. We personified objects and represented them as a character that takes care of themselves to make it relatable for not necessarirly tied to 
+
+Viewers will then watch a recommended self-care video based on their time survey; which instructs them with three steps of doable and interesting selfcare. We hope while watching it, viewers not only get to relax and smile at cute stop-motion of animated objects but also to be able to realize that self-care can be really simple and can be self-customized. 
+
 
 ### Profess:
 
@@ -98,6 +103,8 @@ Since we wanted users to feel that they are cared and valued we had an idea of m
 We first collectively wrote down ideas of selfcare that includes both relatively well-known self care but also included unconventional self-care that are equally successful and useful
 
 The process of filmming a stop motion was much more time consuming 
+
+Once all the stop-motion videos were filmed, the voice over were recorded. We constantly shared progress and gave each other feedback to make sure for example, adding "this was muggy/nana/clippie/Buckle 's (how long time) selfcare". Such consistency in format although each piece are incredibly unique and charming in their own ways. 
 
 
 ### Reflection & Evaluation: 
