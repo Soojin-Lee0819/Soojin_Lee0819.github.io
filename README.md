@@ -93,6 +93,11 @@ The project takes on a full package experience of personalization. We personifie
 
 Viewers will then watch a recommended self-care video based on their time survey; which instructs them with three steps of doable and interesting selfcare. We hope while watching it, viewers not only get to relax and smile at cute stop-motion of animated objects but also to be able to realize that self-care can be really simple and can be self-customized. 
 
+The webiste is not only to hold the video, but it is a process of getting a self-care. Although users will follow steps, we also added navigation bar on the top right for viewers to go back or visit specific page if necessary. 
+The overarching pastel-soft color with round and oval shape conceptualize the cozy, warm and comfortable emotion. We used 
+The colors of the website match logo colors. We used both green and pink to neutralize gender of the visitors; so that it is not too feminine. Instead of using shapes, we used round shapes. 
+
+Unlike usual contact information on About Us page, we simply hared individual artist's name and our "untypical" or go-to self-care routine. We hoped this platform to be as inspirational as possible that we decided to share our unusual self-care routines. 
 
 ### Profess:
 
@@ -106,5 +111,9 @@ The process of filmming a stop motion was much more time consuming
 
 Once all the stop-motion videos were filmed, the voice over were recorded. We constantly shared progress and gave each other feedback to make sure for example, adding "this was muggy/nana/clippie/Buckle 's (how long time) selfcare". Such consistency in format although each piece are incredibly unique and charming in their own ways. 
 
+On the last few days, we focused on the details. For instance, the thumbnail image for videos were chosen that best represents the character and also 
+
 
 ### Reflection & Evaluation: 
+
+This project was one of my favourite project I worked. Since I am a firm believer in the benefits the self-care brings, I was really interested
