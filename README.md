@@ -98,13 +98,11 @@ After the recommended video, visitors can either explore more self care routines
 
 Unlike usual contact information on About Us page, we simply hared individual artist's name and our "untypical" or go-to self-care routine. We hoped this platform to be as inspirational as possible that we decided to share our unusual self-care routines. 
 
-### Profess:
+### Process:
 
-The idea started from wanting to spread the culture of self-care. our first meeting, we decided to make a stop motion. On to this, we chose a theme that would work nicely. Once we decide on making a film about self care, we brainstormed on the idea of and . Since all of us were in differnt geographical location, we wanted to make four different short videos that communicates a bigger meaning. To make four videos to be wanted to make a general 
+The idea started from wanting to normalize the practice of self-care. On our first meeting, we decided that we wanted to try make a stop motion. On to this general theme, many ideas were pitched we wanted to make visitors to have a customized experience that ideas such as having a survey that collect customer behavior so that we can recommend the best-fit self-care routine based on their answers. Another ideas such as providing them with a self-care kit were pitched. But how we are going to actually implement it given the scope of the project was further discussed. It made sense for us to make short videos Since all of us were in differnt geographical location, we wanted to make four different short videos that communicates a bigger meaning. To make four videos to be wanted to make a general 
 
-Since we wanted users to feel that they are cared and valued we had an idea of making a website that is cuztomized for the users. So the idea was to start with a survey that collects customer behavior and based on the response, we recommend the best fit self-care routine, followed by gifting user with a self-care kit. How we are going to do were further discussed in following meetings. 
-
-We first collectively wrote down ideas of selfcare that includes both relatively well-known self care but also included unconventional self-care that are equally successful and useful
+We first starcollectively wrote down ideas of selfcare that includes both relatively well-known self care but also included unconventional self-care that are equally successful and useful
 
 The process of filmming a stop motion was much more time consuming 
 
