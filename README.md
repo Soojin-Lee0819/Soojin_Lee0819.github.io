@@ -100,13 +100,18 @@ Unlike usual contact information on About Us page, we simply hared individual ar
 
 ### Process:
 
-The idea started from wanting to normalize the practice of self-care. On our first meeting, we decided that we wanted to try make a stop motion. On to this general theme, many ideas were pitched we wanted to make visitors to have a customized experience that ideas such as having a survey that collect customer behavior so that we can recommend the best-fit self-care routine based on their answers. Another ideas such as providing them with a self-care kit were pitched. But how we are going to actually implement it given the scope of the project was further discussed. It made sense for us to make short videos Since all of us were in differnt geographical location, we wanted to make four different short videos that communicates a bigger meaning. To make four videos to be wanted to make a general 
+The idea started from wanting to normalize the practice of self-care. On our first meeting, we decided that we wanted to try make a stop motion. On to this big idea, many ideas were pitched having a survey that collect customer behavior so that we can recommend the best-fit self-care routine based on their answer we wanted to make visitors to have a customized experience. Another ideas such as providing them with a self-care kit were pitched. But how we are going to actually implement it given the scope of the project was further discussed. In terms of video, it made sense for us to make four shorts videos that introduces different ways of self care and since all of us were in differnt geographical location, we each wanted to make four different short videos that communicates a bigger meaning.
 
-We first starcollectively wrote down ideas of selfcare that includes both relatively well-known self care but also included unconventional self-care that are equally successful and useful
+We started with writing down all the ideas on selfcare that are commonly practiced, but also included unconventional self-cares. Observing the trend we categorized selfcare routines in three steps; but also in to the category of how long it takes. We made a table on 4 different times; 20 mintues an hour, a day and a week and three steps. 
 
-The process of filmming a stop motion was much more time consuming 
+Each of us took in charge of one time scale and started filming a stop-motion as we actively give comments on each other. As we film, we built more structure. For instance, starting with an introduction of an object. 
+We all used an application named "Stop Motion" for filmming. The process of filmming a stop motion was much more time consuming than expected, especially since we used objects as characters, we also had to set the mise-ens-scene of the scene. 
 
-Once all the stop-motion videos were filmed, the voice over were recorded. We constantly shared progress and gave each other feedback to make sure for example, adding "this was muggy/nana/clippie/Buckle 's (how long time) selfcare". Such consistency in format although each piece are incredibly unique and charming in their own ways. 
+Once all the stop-motion videos were filmed, voice overs were recorded. We constantly shared progress and gave each other feedback to make sure for example, adding "this was muggy/nana/clippie/Buckle 's (how long time) selfcare". Such consistency in format. 
+
+We divided work on two of us working on editing the film; Shreya and I, while Hessa and Aisa focused on coding the webiste. 
+
+
 
 On the last few days, we focused on the details. For instance, the thumbnail image for videos were chosen that best represents the character and also 
 
