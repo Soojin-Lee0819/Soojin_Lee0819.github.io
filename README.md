@@ -82,7 +82,7 @@ For my next projecct I would like to work more on the coding aspect. For this pr
 
 ## Self Care Perspectives On How To 
 
-Github Repository: https://aisahodzic.github.io/Video%20Project/mainPage.html
+Github Repository: https://github.com/aisahodzic/aisahodzic.github.io/tree/master/Video%20Project
 Website: https://aisahodzic.github.io/Video%20Project/index.html
 
 ### Project Description:
